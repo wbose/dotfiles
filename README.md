@@ -10,10 +10,12 @@ Welcome to my personal dotfiles repository! This repository contains configurati
     - [st](https://github.com/LukeSmithxyz/st)
     - [dwmblocks](https://github.com/LukeSmithxyz/dwmblocks)
     - [dmenu](https://github.com/LukeSmithxyz/dmenu)
-  - **lf** (List Files) - A terminal file manager, with configurations inspired by [lf](https://github.com/gokcehan/lf).
+  - **lf** (List Files)
+  -   [lf](https://github.com/gokcehan/lf).
 
 - **Text Editor**:
-  - **Neovim** - My preferred editor, enhanced with [LazyVim](https://github.com/LazyVim/LazyVim), a configuration framework to streamline the Neovim setup.
+  - **Neovim**
+  - [Neovim](https://github.com/neovim/neovim.git),enhanced with [LazyVim](https://github.com/LazyVim/LazyVim), a configuration framework to streamline the Neovim setup.
 
 ## Screenshot
 
