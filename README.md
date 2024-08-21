@@ -1,7 +1,7 @@
 # Dotfiles
 My personal dotfiles.
 
-## What's Included
+## Stuffs
 
 - **Window Manager, Terminal, and Status Bar**:
   - **dwm** (Dynamic Window Manager), **st** (Simple Terminal), and **dwmblocks** are customized versions based on the great work of [Luke Smith](https://github.com/LukeSmithxyz). For more details, check out his repositories:
