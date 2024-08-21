@@ -1,6 +1,5 @@
 # Dotfiles
-
-Welcome to my personal dotfiles repository! This repository contains configurations for various tools and applications that shape my Linux environment. It’s tailored to my needs and preferences, so it might not suit everyone, but I hope you find some inspiration here.
+My personal dotfiles.
 
 ## What's Included
 
@@ -10,12 +9,11 @@ Welcome to my personal dotfiles repository! This repository contains configurati
     - [st](https://github.com/LukeSmithxyz/st)
     - [dwmblocks](https://github.com/LukeSmithxyz/dwmblocks)
     - [dmenu](https://github.com/LukeSmithxyz/dmenu)
-  - **lf** (List Files)
+- **File Manager**:
   -   [lf](https://github.com/gokcehan/lf).
 
 - **Text Editor**:
-  - **Neovim**
-  - [Neovim](https://github.com/neovim/neovim.git),enhanced with [LazyVim](https://github.com/LazyVim/LazyVim), a configuration framework to streamline the Neovim setup.
+  - [Neovim](https://github.com/neovim/neovim.git),enhanced with [LazyVim](https://github.com/LazyVim/LazyVim). 
 
 ## Screenshot
 
