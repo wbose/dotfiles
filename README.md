@@ -11,11 +11,5 @@ My personal dotfiles.
   - **Neovim** 
   
 ## Screenshots
-(ss.png)
-## Getting Started
-
-1. **Clone the Repository**:
-   First, clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/wbose/dotfiles.git
+![Screenshot](ss.png)
 
