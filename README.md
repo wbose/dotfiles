@@ -4,7 +4,7 @@ My personal dotfiles.
 ## Stuffs
 
 - **Window Manager, Terminal, and Status Bar**:
-  -Based on the works of [Luke Smith](https://github.com/LukeSmithxyz), but tailored to my preferences. For more details, check out his repositories:
+  - Based on the works of [Luke Smith](https://github.com/LukeSmithxyz), but tailored to my preferences. For more details, check out his repositories:
     - [dwm](https://github.com/LukeSmithxyz/dwm)
     - [st](https://github.com/LukeSmithxyz/st)
     - [dwmblocks](https://github.com/LukeSmithxyz/dwmblocks)
